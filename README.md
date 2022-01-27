@@ -5,4 +5,6 @@ The following details of students are entered:-
 1. Guest name 
 2. Room no.
 3. Wifi plan 
+
+
 The hotel manager is a very busy person and does not have the time to sit and manage the entire activities manually on paper. This system gives him the power and flexibility to manage the entire system from a single online system. Hotel management project provides room booking and other necessary hotel management features. The system allows the manager to post available rooms in the system. Customers can view and book room online. Admin has the power of either approving or disapproving the customer’s booking request. The system is hence useful for both customers and managers to portable manage the hotel activities.
