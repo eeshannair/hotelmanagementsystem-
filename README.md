@@ -1,5 +1,7 @@
 A mini project done by
-Eeshan Nair- RA211109010255, Kishore Prakash- RA211109010254
+Eeshan Nair- RA211109010255, Kishore Prakash- RA211109010254.
+
+
 This project is to implement hotel management system where guests can request room booking, there r in total 50 rooms, there are 2 types of wifi plan 1GB,5GB
 The following details of students are entered:-
 1. Guest name 
